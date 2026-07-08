@@ -17,7 +17,7 @@ A data-driven policy analysis examining why Barcelona's 2023 rent regulation suc
 
 ---
 
-## 📊 Projects by Skill Area
+## Projects by Skill Area
 
 ### Python & Automation
 - [REST-APIs-with-Python](https://github.com/apballock/REST-APIs-with-Python) — API integration lifecycle: authentication, data transformation, live dashboard
