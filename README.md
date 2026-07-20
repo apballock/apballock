@@ -2,6 +2,7 @@
 
 **Data Analyst** turning messy data into clear decisions.
 SQL · Python · Power BI · Excel · MongoDB · AI Quality
+
 Multilingual: Portuguese (native) · English (C2) · Spanish (C2) · Italian (B1) · French (B1)
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/anaballock)
